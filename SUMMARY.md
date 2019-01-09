@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Initial page](README.md)
+* [Sera Kassa documentatie](README.md)
 * [index](index.md)
 * [overview 2](overview.md)
 
