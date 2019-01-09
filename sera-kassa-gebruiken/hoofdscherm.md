@@ -1,4 +1,4 @@
 # Hoofdscherm
 
-![](../.gitbook/assets/4-main_screen.png)
+![](../.gitbook/assets/04-main_screen.png)
 

@@ -20,13 +20,13 @@ Tip: Op Mac kun je je instellingen ook openen vanuit de menubalk bovenaan je sch
 
 Allereerst moet we aangeven op welke accommodatie de kassa zich bevindt, en wat voor type kassa het betreft. De combinatie van deze gegevens bepaalt welke producten en hierna op de kassa te zien zullen zijn.
 
-![Het instellingen-scherm waar de basis-voorkeuren worden ingesteld.](../.gitbook/assets/2-prefs.png)
+![Het instellingen-scherm waar de basis-voorkeuren worden ingesteld.](../.gitbook/assets/02-prefs.png)
 
 ### Geavanceerde instellingen
 
 Onder "Geavanceerd" moeten ook enkele cruciale gegevens ingevuld worden. Omdat de vulling van Sera Kassa \(zoals de productoverzichten en het klantenbeheer\) volledig afhankelijk zijn van **Sera API**, moeten we instellen hoe we Sera API kunnen benaderen.
 
-![Geavanceerde instellingen.](../.gitbook/assets/3-prefs_advanced.png)
+![Geavanceerde instellingen.](../.gitbook/assets/03-prefs_advanced.png)
 
 
 
