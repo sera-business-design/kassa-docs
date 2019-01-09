@@ -4,7 +4,7 @@ description: >-
   kunt starten met Sera Kassa, en hoe je het onderste uit de kan kunt halen.
 ---
 
-# Sera Kassa installeren
+# Sera Kassa
 
 ## Snel aan de slag
 
