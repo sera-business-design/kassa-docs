@@ -1,6 +1,6 @@
 # Table of contents
 
-* [Sera Kassa documentatie](README.md)
-* [index](index.md)
-* [overview 2](overview.md)
+* [Sera Kassa installeren](README.md)
+* [Instellingen](instellingen.md)
+* [Inloggen op Sera Kassa](inloggen-op-sera-kassa.md)
 

@@ -4,37 +4,23 @@ description: >-
   kunt starten met Sera Kassa, en hoe je het onderste uit de kan kunt halen.
 ---
 
-# Sera Kassa documentatie
+# Sera Kassa installeren
 
-{% api-method method="get" host="" path="" %}
-{% api-method-summary %}
-Get a cake
-{% endapi-method-summary %}
+## Snel aan de slag
 
-{% api-method-description %}
-Get the cake ":id"
-{% endapi-method-description %}
+Sera Kassa kan eenvoudig worden geïnstalleerd met de installers die beschikbaar zijn voor Windows en Mac. Neem contact op met [info@serasoft.com](mailto:info@serasoft.com) om meer te leren over de mogelijkheden van Sera Kassa en Sera Business Design. 
 
-{% api-method-spec %}
-{% api-method-request %}
-{% api-method-path-parameters %}
-{% api-method-parameter name="" type="string" required=false %}
-Cake ID
-{% endapi-method-parameter %}
-{% endapi-method-path-parameters %}
-{% endapi-method-request %}
+### Windows
 
-{% api-method-response %}
-{% api-method-response-example httpCode=200 %}
-{% api-method-response-example-description %}
+1. Dubbelklik op het bestand **Sera Kassa Setup 1.0.0.exe**. Het installatieprogramma wordt uitgevoerd.
+2. Sera Kassa start automatisch op als de installatie voltooid is. Sera Kassa kan ook worden opgestart via het Start-menu of via de snelkoppeling op het bureaublad
 
-{% endapi-method-response-example-description %}
+### Mac
 
-```
+1. Dubbelklik op het bestand **Sera Kassa-1.0.0.dmg**. Sleep het icoon van Sera Kassa naar het icoon van Applicaties.
+2. Wanneer de installatie voltooid is, kun je Sera Kassa starten via de gebruikelijke manieren.
 
-```
-{% endapi-method-response-example %}
-{% endapi-method-response %}
-{% endapi-method-spec %}
-{% endapi-method %}
+![Zo ziet het loginscherm van Sera Kassa er uit!](.gitbook/assets/1-login.png)
+
+
 
