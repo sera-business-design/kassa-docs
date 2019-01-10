@@ -12,3 +12,5 @@ Sera Kassa kan eenvoudig worden geïnstalleerd met de installers die beschikbaar
 1. Dubbelklik op het bestand **Sera Kassa-1.0.0.dmg**. Sleep het icoon van Sera Kassa naar het icoon van Applicaties.
 2. Wanneer de installatie voltooid is, kun je Sera Kassa starten via de gebruikelijke manieren.
 
+![Zo ziet her beginscherm van Sera Kassa er uit!](../.gitbook/assets/01-login.png)
+
