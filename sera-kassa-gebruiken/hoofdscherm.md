@@ -1,20 +1,20 @@
 # Hoofdscherm
 
-![](../.gitbook/assets/04-main_screen.png)
+![Het hoofdscherm van Sera Kassa](../.gitbook/assets/04-main_screen.png)
 
-### Productenoverzicht
+### Productoverzicht
 
-![](../.gitbook/assets/04-main_screen-tabs.png)
+![Tabjes voor het kassatype &apos;Horeca&apos;](../.gitbook/assets/04-main_screen-tabs.png)
 
-![](../.gitbook/assets/04-main_screen-products.png)
+![Producten onder het tabje &apos;Snoep/ijs&apos;](../.gitbook/assets/04-main_screen-products.png)
 
-### Winkelwagen en betaling
+### Bestelling en betaling
 
-![](../.gitbook/assets/04-main_screen-cart.png)
+![De bestelling](../.gitbook/assets/04-main_screen-cart.png)
 
-![](../.gitbook/assets/04-main_screen-payment1.png)
+![Knoppen voor de verschillende betaalmogelijkheden](../.gitbook/assets/04-main_screen-payment1.png)
 
-### Extra functies
+### Geavanceerde functies
 
 ![](../.gitbook/assets/04-main_screen-extra.png)
 

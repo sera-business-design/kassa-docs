@@ -1,2 +1,12 @@
-# Complexe producten bestellen
+# Opties
+
+## Laatste bon herprinten
+
+...
+
+## Kassa verversen
+
+## Instellingen wijzigen
+
+## Uitloggen
 

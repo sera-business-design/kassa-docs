@@ -10,7 +10,7 @@ description: >-
 
 Zonder de juiste instellingen kun je nog niet werken met Sera Kassa. We moeten onder meer eerst aangeven op welke kassa we aan het werk zijn, en hoe we moeten verbinden met de Sera API.
 
-Het instellingen-scherm is verstopt als je nog niet bent ingelogd. Om het scherm te openen druk op je je toetsenbord op `Ctrl + komma` (op Windows) of `Cmd + komma` (op Mac).
+Het instellingen-scherm is verstopt als je nog niet bent ingelogd. Om het scherm te openen druk op je je toetsenbord op `Ctrl + komma` \(op Windows\) of `Cmd + komma` \(op Mac\).
 
 {% hint style="info" %}
 Tip: Op Mac kun je je instellingen ook openen vanuit de menubalk bovenaan je scherm. Klik op **Sera Kassa** \(naast het Apple-icoontje\) en klik vervolgens op "Preferences...".
