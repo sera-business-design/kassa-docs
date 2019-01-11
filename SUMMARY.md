@@ -1,6 +1,7 @@
 # Table of contents
 
 * [Sera Kassa](README.md)
+* [Problemen oplossen](problemen-oplossen.md)
 
 ## Klaarmaken voor gebruik
 
