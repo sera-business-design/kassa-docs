@@ -58,10 +58,10 @@ Als er meerdere randvoorwaarden zijn ingesteld voor een product, komen een voor 
 
 ### Entiteiten toevoegen
 
-Als de klant die je wilt selecteren nog niet in het systeem staat, kun je deze toevoegen door in het keuzeschermpje te klikken op de knop **+ Toevoegen**. Er wordt dan een programma van Sera Backoffice geopend waar je bijvoorbeeld een nieuwe klant kunt invoeren.
+Als de klant die je wilt selecteren nog niet in het systeem staat, kun je deze toevoegen door in het keuzeschermpje te klikken op de knop **`+ Toevoegen`**. Er wordt dan een programma van Sera Backoffice geopend waar je bijvoorbeeld een nieuwe klant kunt invoeren.
 
 {% hint style="info" %}
-Sommige producten vragen naast een klant of leerling ook om bijvoorbeeld een accommodatie of tijdsperiode. Niet alle entiteiten kunnen vanuit Sera Backoffice beheerd worden, omdat ze bijvoorbeeld vaststaan of automatisch gegenereerd worden. De knop met **+ Toevoegen** zal dus niet altijd zichtbaar zijn.
+Sommige producten vragen naast een klant of leerling ook om bijvoorbeeld een accommodatie of tijdsperiode. Niet alle entiteiten kunnen vanuit Sera Backoffice beheerd worden, omdat ze bijvoorbeeld vaststaan of automatisch gegenereerd worden. De knop met **`+ Toevoegen`** zal dus niet altijd zichtbaar zijn.
 {% endhint %}
 
 Als je klaar bent met invoeren, kun je het Sera Backoffice-programma sluiten. Je kunt nu door middel van de zoekbalk in het keuzeschermpje zoeken naar de nieuw ingevoerde klant. Klik vervolgens op deze klant om die te selecteren.
