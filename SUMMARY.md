@@ -35,4 +35,5 @@
 * [Producten toevoegen of wijzigen](sera-kassa-beheren/producten-toevoegen-of-wijzigen.md)
 * [Klantenbeheer](sera-kassa-beheren/klantenbeheer.md)
 * [Pas koppelen](sera-kassa-beheren/pas-koppelen.md)
+* [OAuth clients beheren \(geavanceerd\)](sera-kassa-beheren/oauth-clients-beheren-geavanceerd.md)
 

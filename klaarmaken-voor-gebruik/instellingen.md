@@ -16,15 +16,13 @@ Het instellingen-scherm is verstopt als je nog niet bent ingelogd. Om het scherm
 Tip: Op Mac kun je je instellingen ook openen vanuit de menubalk bovenaan je scherm. Klik op **Sera Kassa** \(naast het Apple-icoontje\) en klik vervolgens op "Preferences...".
 {% endhint %}
 
-## Voorkeuren
-
-Allereerst moet we aangeven op welke accommodatie de kassa zich bevindt, en wat voor type kassa het betreft. De combinatie van deze gegevens bepaalt welke producten en hierna op de kassa te zien zullen zijn.
-
-![Het instellingen-scherm waar de basis-voorkeuren worden ingesteld.](../.gitbook/assets/02-prefs.png)
-
 ## Geavanceerde instellingen
 
-Onder "Geavanceerd" moeten ook enkele cruciale gegevens ingevuld worden. Omdat de vulling van Sera Kassa \(zoals de productoverzichten en het klantenbeheer\) volledig afhankelijk zijn van **Sera API**, moeten we instellen hoe we Sera API kunnen benaderen.
+Onder "Geavanceerd" moeten enkele cruciale gegevens ingevuld worden. Omdat de vulling van Sera Kassa \(zoals de productoverzichten en het klantenbeheer\) volledig afhankelijk zijn van **Sera API**, moeten we instellen hoe we Sera API kunnen benaderen.
 
 ![Geavanceerde instellingen.](../.gitbook/assets/03-prefs_advanced.png)
+
+Het is hier vooral belangrijk dat de juiste API-url wordt ingevuld, met de correcte "client credentials". De url van de API is vaak de url van je website, met "api" in plaats van "www". De url kan altijd worden opgevraagd bij Sera Business Design.
+
+De client credentials kunnen worden aangemaakt door een administrator van Sera Backoffice
 
