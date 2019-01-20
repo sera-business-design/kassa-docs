@@ -26,24 +26,13 @@ Blijft het probleem zich voordoen, neem dan contact op met [Sera Business Design
 
 Om het aantal producten in de bestelling handmatig op te hogen of te verlagen, kun je gebruik maken van de **bestelling-tooltip**. Die kun je openen door in de bestelling op een van de producten te klikken.
 
-Met de ➕ en ➖ knoppen kun je het productaantal met één tegelijk ophogen of verlagen.
+Met de ➖ en ➕ knoppen kun je het productaantal met één tegelijk verlagen of ophogen. Je kunt ook met het **toetsenbord** een aantal invoeren.
 
 ![De bestelling-tooltip](../../.gitbook/assets/05-editor.png)
 
-#### Numeriek toetsenbord
-
-Onder de bestelling zie je ook een numeriek toetsenbord verschijnen. Daarmee kun je in een keer het aantal producten in de bestelling overschrijven. Zo kun je achtereenvolgens de **3** en de **5** intoetsen om het aantal roze koeken aan te passen naar 35 \(voor de hongerige klanten\). Eenmaal op het "backspace"-icoontje klikken zorgt ervoor dat het aantal op 3 wordt gezet. Nogmaals op het backspace-icoontje \(of op het prullenbak-icoontje\) klikken zorgt ervoor dat het aantal wordt hersteld naar de oorspronkelijke waarde. In het geval van bovenstaande schermafbeelding zou het aantal weer 2 worden.
-
-{% hint style="info" %}
-Op dit moment is het nog niet mogelijk om het fysieke toetsenbord van de kassacomputer te gebruiken om het aantal producten aan te passen, of producten uit je bestelling te verwijderen.
-{% endhint %}
-
 ### Verwijderen uit bestelling
 
-Het verwijderen van een product uit de bestelling kan op twee manieren bereikt worden:
-
-1. Klikken op de knop **Verwijderen** in de bestelling-tooltip.
-2. Het aantal van het product aanpassen naar 0 \(via de knoppen op de bestelling-tooltip of via het numerieke toetsenbord.
+Om een product te verwijderen uit de bestelling, klik je op de rode knop **Verwijderen** in de bestelling-tooltip.
 
 ### De bestelling leegmaken
 
@@ -64,12 +53,18 @@ Als je bijvoorbeeld op het product "12-badenkaart" klikt, verschijnt er een sche
 Als je op de knop **Sluiten** drukt, wordt het schermpje verborgen en wordt het toevoegen van het het product aan de bestelling geannuleerd.
 
 {% hint style="info" %}
-Als er meerdere randvoorwaarden zijn ingesteld voor een product, komen een voor een vergelijkbare schermpjes tevoorschijn. Het product wordt aan de bestelling toegevoegd als alle randvoorwaarden zijn opgegeven.
+Als er meerdere randvoorwaarden zijn ingesteld voor een product, komen een voor een vergelijkbare schermpjes tevoorschijn. Het product wordt aan de bestelling toegevoegd als alle voor alle randvoorwaarden de bijbehorende entiteiten zijn opgegeven.
 {% endhint %}
 
 ### Entiteiten toevoegen
 
-Als 
+Als de klant die je wilt selecteren nog niet in het systeem staat, kun je deze toevoegen door in het keuzeschermpje te klikken op de knop **+ Toevoegen**. Er wordt dan een programma van Sera Backoffice geopend waar je bijvoorbeeld een nieuwe klant kunt invoeren.
+
+{% hint style="info" %}
+Sommige producten vragen naast een klant of leerling ook om bijvoorbeeld een accommodatie of tijdsperiode. Niet alle entiteiten kunnen vanuit Sera Backoffice beheerd worden, omdat ze bijvoorbeeld vaststaan of automatisch gegenereerd worden. De knop met **+ Toevoegen** zal dus niet altijd zichtbaar zijn.
+{% endhint %}
+
+Als je klaar bent met invoeren, kun je het Sera Backoffice-programma sluiten. Je kunt nu door middel van de zoekbalk in het keuzeschermpje zoeken naar de nieuw ingevoerde klant. Klik vervolgens op deze klant om die te selecteren.
 
 ## Werknemerskorting
 
